@@ -1,0 +1,15 @@
+D:\AllbsWorkspace\allbs-autowired\src\main\java\cn\allbs\auto\config\MultiSetMap.java
+D:\AllbsWorkspace\allbs-autowired\src\main\java\cn\allbs\auto\config\AbstractDefaultProcessor.java
+D:\AllbsWorkspace\allbs-autowired\src\main\java\cn\allbs\auto\factories\AutoFactoriesProcessor.java
+D:\AllbsWorkspace\allbs-autowired\src\main\java\cn\allbs\auto\annotation\AutoIgnore.java
+D:\AllbsWorkspace\allbs-autowired\src\main\java\cn\allbs\auto\annotation\AutoListener.java
+D:\AllbsWorkspace\allbs-autowired\src\main\java\cn\allbs\auto\annotation\AutoFailureAnalyzer.java
+D:\AllbsWorkspace\allbs-autowired\src\main\java\cn\allbs\auto\handler\ServicesFiles.java
+D:\AllbsWorkspace\allbs-autowired\src\main\java\cn\allbs\auto\factories\FactoriesFiles.java
+D:\AllbsWorkspace\allbs-autowired\src\main\java\cn\allbs\auto\annotation\AutoContextInitializer.java
+D:\AllbsWorkspace\allbs-autowired\src\main\java\cn\allbs\auto\config\BootAutoType.java
+D:\AllbsWorkspace\allbs-autowired\src\main\java\cn\allbs\auto\annotation\AutoTemplateProvider.java
+D:\AllbsWorkspace\allbs-autowired\src\main\java\cn\allbs\auto\handler\AutoServiceProcessor.java
+D:\AllbsWorkspace\allbs-autowired\src\main\java\cn\allbs\auto\annotation\AutoRunListener.java
+D:\AllbsWorkspace\allbs-autowired\src\main\java\cn\allbs\auto\annotation\AutoConfigImportFilter.java
+D:\AllbsWorkspace\allbs-autowired\src\main\java\cn\allbs\auto\annotation\AutoResource.java
